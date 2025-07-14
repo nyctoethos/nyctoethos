@@ -29,6 +29,5 @@
 
 # Where to find me
 <p>
-
     
 </p>
